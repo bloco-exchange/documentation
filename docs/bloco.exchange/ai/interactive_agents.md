@@ -1,5 +1,7 @@
 # Interactive Agents Documentation
 
+![Agent Interactions](agent_interactions.png)
+
 Interactive agents on bloco.exchange are designed to provide users with a seamless and intuitive way to interact with the decentralized exchange (DEX) platform. They can perform a variety of tasks, from placing orders to retrieving market information, all through natural language communication.
 
 This documentation focuses on the various ways users can interact with the interactive agents to perform specific tasks, providing additional examples and extensive explanations for each point.
