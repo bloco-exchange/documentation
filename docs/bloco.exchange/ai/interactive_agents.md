@@ -1,10 +1,23 @@
-# Interactive Agents Documentation
-
-![Agent Interactions](agent_interactions.png)
+# Interactive Agents
 
 Interactive agents on bloco.exchange are designed to provide users with a seamless and intuitive way to interact with the decentralized exchange (DEX) platform. They can perform a variety of tasks, from placing orders to retrieving market information, all through natural language communication.
 
+![Agent Interactions](agent_interactions.png)
+
 This documentation focuses on the various ways users can interact with the interactive agents to perform specific tasks, providing additional examples and extensive explanations for each point.
+
+The interactive agents on bloco.exchange provide a wide range of functionalities to traders, investors, and the broader blockchain/crypto community. Users can interact with the platform using natural language, allowing them to easily manage their digital assets, make informed decisions, and engage with others in the community. The agent can perform tasks related to:
+
+- Trading (buying, selling, swapping, limit orders)
+- Wallet management (transfers, address retrieval, username management, transaction history)
+- Portfolio management (composition, performance, recommendations)
+- Market information (charts, prices, performance, token information, news)
+- NFTs (browsing, details, buying, selling, trading, creating, minting, portfolio management, auctions, and bidding)
+- Custom notifications (news, portfolio updates)
+- Social interaction (crypto communities, events, and conferences)
+- Tax and regulatory compliance (tax reporting, regulatory updates)
+- Social networking (sending messages, group management, social feeds, post interactions, event organization)
+- Advanced trading features (leveraged trading, options trading, token launches, ICOs, risk management, trading algorithms, educational resources, lending and borrowing, external tool integration)
 
 ## Orders
 
