@@ -1,26 +1,26 @@
-# Bloco.exchange: A Revolution in Web3
+# bloco.exchange: A Revolution in Web3
 
 Bloco.exchange is an AI-powered web3 platform that seamlessly blends cutting-edge technology with the simplicity of natural language to change the way users trade, invest, and manage their digital assets. With intuitive tools and interactive agents, Bloco.exchange empowers its users to navigate the complex financial landscape with confidence and ease.
 
-## The Power of Bloco.exchange
+## The Power of bloco.exchange
 
 Our platform offers an unparalleled suite of features designed to elevate your experience and provide you with the best possible opportunities:
 
 1. **Dedicated Intelligent Agents**: Imagine having a personal concierge for your digital assets. Bloco.exchange pairs every user with their own intelligent agent that can act on their behalf, guiding them through markets, executing trades, managing investments, and providing essential market insights for well-informed decision-making.
 
-2. **Custody and Authorization**: At Bloco.exchange, we believe in the power of autonomy and security. We ensure that keys and funds remain in the hands of their rightful owners, giving our users complete control over their digital assets.
+2. **Custody and Authorization**: At bloco.exchange, we believe in the power of autonomy and security. We ensure that keys and funds remain in the hands of their rightful owners, giving our users complete control over their digital assets.
 
 3. **Identification and Authentication**: By employing Web3 technology for user login, Bloco.exchange places the utmost importance on privacy and security, safeguarding your data and digital identity.
 
-4. **Borderless Access**: We've torn down the barriers that once separated us, creating a truly global platform accessible to anyone, anywhere. With Bloco.exchange, users can trade, invest, and engage in commerce without the constraints of borders or boundaries.
+4. **Borderless Access**: We've torn down the barriers that once separated us, creating a truly global platform accessible to anyone, anywhere. With bloco.exchange, users can trade, invest, and engage in commerce without the constraints of borders or boundaries.
 
-Welcome to Bloco.exchange, where the future of digital asset management comes alive.
+Welcome to bloco.exchange, where the future of digital asset management comes alive.
 
 ## Membership Tiers: Choose Your Path to Success
 
 Bloco.exchange presents two distinct membership tiers, designed to cater to the unique needs and aspirations of our users:
 
-- **Essential**: Embrace the foundational elements of Bloco.exchange with the Essential tier, granting you access to our platform's core features and functionalities. This tier is perfect for those looking to explore and grow in the world of digital assets.
+- **Essential**: Embrace the foundational elements of bloco.exchange with the Essential tier, granting you access to our platform's core features and functionalities. This tier is perfect for those looking to explore and grow in the world of digital assets.
 
 - **Elite**: Elevate your experience to new heights with the Elite tier, unlocking a realm of premium features, exclusive benefits, and unparalleled opportunities tailored for those who strive for excellence in their digital asset journey.
 
@@ -28,7 +28,7 @@ Embark on the path that aligns with your vision and goals, and let Bloco.exchang
 
 ## Diverse DeFi Protocols and Integrations for an Inclusive Financial Ecosystem
 
-At Bloco.exchange, we believe in the power of diversity and inclusion to foster innovation and create a truly revolutionary financial ecosystem. To that end, we have meticulously curated and integrated a wide range of DeFi protocols and third-party technologies, each bringing their unique strengths to the table:
+At bloco.exchange, we believe in the power of diversity and inclusion to foster innovation and create a truly revolutionary financial ecosystem. To that end, we have meticulously curated and integrated a wide range of DeFi protocols and third-party technologies, each bringing their unique strengths to the table:
 
 - [1inch Integration](integrations/1inch_integration.md): We've integrated 1inch, a leading decentralized exchange aggregator, to deliver the most competitive trading rates and frictionless token swaps by tapping into multiple liquidity sources.
 
@@ -46,9 +46,9 @@ At Bloco.exchange, we believe in the power of diversity and inclusion to foster 
 
 Together, these diverse integrations coalesce into a harmonious whole, creating an inclusive, versatile, and powerful financial ecosystem that caters to the unique needs and aspirations of our users.
 
-## The Bloco.exchange Experience: Engage, Compete, and Prosper
+## The bloco.exchange Experience: Engage, Compete, and Prosper
 
-At Bloco.exchange, we believe that success is best savored when shared. That's why we've designed an [interactive, reward-driven experience](gamification/gamification.md) to inspire our users, foster camaraderie, and celebrate achievements:
+At bloco.exchange, we believe that success is best savored when shared. That's why we've designed an [interactive, reward-driven experience](gamification/gamification.md) to inspire our users, foster camaraderie, and celebrate achievements:
 
 - **Leaderboards**: Ascend the ranks and showcase your prowess on our dynamic leaderboards. By ranking users based on their platform activity, we encourage a spirited atmosphere of friendly competition and collaboration.
 
@@ -61,7 +61,7 @@ Embrace the thrill of engagement, revel in the excitement of competition, and fl
 
 ## Native Currency and Dividends: Unleash the Power of Blocs (⨖)
 
-Bloco.exchange is fueled by its native currency, [blocs (⨖)](blocs/overview.md), designed to reward and empower our users. Our innovative dividend structure distributes various cashflows to investors, token listings, and holders, creating a thriving and dynamic ecosystem:
+bloco.exchange is fueled by its native currency, [blocs (⨖)](blocs/overview.md), designed to reward and empower our users. Our innovative dividend structure distributes various cashflows to investors, token listings, and holders, creating a thriving and dynamic ecosystem:
 
 - **Dividend Boosters**: Ignite your earnings with Dividend Boosters, which temporarily amplify the dividend yield for users engaging in specific platform activities, such as providing liquidity, referring new users, or participating in governance decisions. Boosters foster user engagement and propel platform growth.
 
