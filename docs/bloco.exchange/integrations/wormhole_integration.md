@@ -12,4 +12,6 @@ To initiate a cross-chain asset transfer, users can communicate their intentions
 
 By integrating Wormhole, bloco.exchange offers users access to an expanded range of tokens, assets, and investment opportunities available on multiple blockchain networks. This allows users to diversify their portfolios and explore new opportunities in the rapidly evolving world of blockchain and cryptocurrencies.
 
-Additionally, the Wormhole integration helps reduce the complexity of managing assets across multiple chains. Users can perform cross-chain transactions within bloco.exchange's intuitive, AI-powered interface, without the need for multiple wallets or external tools.
+Wormhole integration helps reduce the complexity of managing assets across multiple chains. Users can perform cross-chain transactions within bloco.exchange's intuitive, AI-powered interface, without the need for multiple wallets or external tools.
+
+For more information about other integrations and features in bloco.exchange, please refer to the [Integrations Overview](overview.md) and the platform's official documentation.

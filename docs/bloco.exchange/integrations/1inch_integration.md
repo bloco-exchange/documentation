@@ -13,3 +13,5 @@ To place a limit order, users can simply communicate their intentions to the int
 Bloco.exchange uses the 1inch API to enable users to swap tokens across ETH and BSC networks. The integration provides users with the best swap rates and minimal slippage by aggregating multiple decentralized exchanges.
 
 To initiate a token swap, users can communicate their intentions to the interactive agent in natural language. For example, a user can say, "Swap 50% of my FLOKI for PEPE." The interactive agent will then process the user's request and execute the token swap using the 1inch API.
+
+For more information about other integrations and features in bloco.exchange, please refer to the [Integrations Overview](overview.md) and the platform's official documentation.
