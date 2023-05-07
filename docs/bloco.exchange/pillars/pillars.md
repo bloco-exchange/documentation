@@ -39,3 +39,5 @@ Bloco.exchange is dedicated to continuous innovation and improvement. Some of th
 - **Cross-chain compatibility**: Bloco.exchange aims to support cross-chain compatibility, enabling users to interact with various blockchains and trade a diverse range of assets.
 - **Social trading**: The platform plans to introduce social trading features, allowing users to follow and replicate the trading strategies of successful traders.
 - **Insurance and risk management**: Bloco.exchange will explore options to provide insurance and risk management solutions for users, protecting their investments and mitigating potential losses.
+
+For an overview of bloco.exchange please see the [Overview](../overview.md).

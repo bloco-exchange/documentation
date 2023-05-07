@@ -50,3 +50,5 @@ In addition to the smart contracts and blockchain technology, Bloco.exchange pro
 5. **Integration with Trading and Investment Features**: DAIFs are seamlessly integrated with the platform's trading and investment features, allowing users to invest in DAIFs and manage their portfolios alongside other assets on the platform.
 
 Through a combination of smart contracts, blockchain technology, and platform-specific tools, Bloco.exchange successfully integrates DAIFs into its ecosystem, providing users with a powerful, decentralized, and automated investment vehicle.
+
+For an overview of bloco.exchange please see the [Overview](../overview.md).

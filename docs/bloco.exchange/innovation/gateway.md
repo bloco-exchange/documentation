@@ -126,3 +126,6 @@ The blockchain technology that underpins blocs (⨖) offers superior security co
 
 1. **Immutable Transactions**: The blockchain's immutable nature ensures that once a transaction is recorded, it cannot be altered or tampered with, providing a secure and trustworthy record of transactions.
 2. **Fraud Prevention**: The decentralized and transparent nature of blockchain technology makes it more difficult for bad actors to manipulate or defraud the system.
+
+For an overview of bloco.exchange please see the [Overview](../overview.md).
+

@@ -26,3 +26,11 @@ As users accumulate points, they will progress through various reward tiers, eac
 4. **Exclusive Community Access**: Top-tier users may be granted access to exclusive community events, webinars, and discussion groups, providing them with unique networking and learning opportunities.
 
 By integrating gamification elements and rewarding user activity, Bloco.exchange aims to create a fun and engaging environment that encourages users to explore, learn, and actively participate in the platform's growth and success.
+
+## Referral Dashboard
+
+The Referral Dashboard is an integral component of bloco.exchange's first release. It enables users to create unique referral codes and access up-to-date information about the platform, ensuring they can accurately inform potential subscribers about the platform's features and benefits. The dashboard also provides referrers with marketing materials and access to a specialized marketing and referral intelligent agent to assist in promoting the platform and closing deals.
+
+Referrers earn 10% of each subscription fee paid by users who join the platform using their referral code. They can track their earnings on the Referral Dashboard, and successful referrers have the potential to earn a monthly income through their referral activities.
+
+For an overview of bloco.exchange please see the [Overview](../overview.md).

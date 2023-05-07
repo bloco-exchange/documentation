@@ -276,3 +276,5 @@ The interactive agents on bloco.exchange provide a wide range of functionalities
    Examples: "Show me the TradingView chart for Bitcoin". "Find a trading script for RSI divergence on TradingView".
 
 To use these additional functionalities, communicate with your interactive agent in natural language, as demonstrated in the examples above. The agent will understand your request and perform the corresponding task accordingly.
+
+For an overview of bloco.exchange please see the [Overview](../overview.md).
