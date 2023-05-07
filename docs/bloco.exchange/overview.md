@@ -56,7 +56,7 @@ At bloco.exchange, we believe that success is best savored when shared. That's w
 
 - **Bloco Ambassadors**: Share the magic of Bloco.exchange with others and enjoy the fruits of their success through our Bloco Ambassadors program. For every new user you refer, you'll receive a percentage of their subscription fee, creating a continuous stream of income that grows alongside your network.
 
-Embrace the thrill of engagement, revel in the excitement of competition, and flourish in a world of boundless opportunities at Bloco.exchange.
+Embrace the thrill of engagement, revel in the excitement of competition, and flourish in a world of boundless opportunities at bloco.exchange.
 
 
 ## Native Currency and Dividends: Unleash the Power of Blocs (⨖)
