@@ -1,6 +1,8 @@
-# bloco.exchange: A Revolution in Web3
+# Reimagining Web3 Interactions
 
-Bloco.exchange is an AI-powered web3 platform that seamlessly blends cutting-edge technology with the simplicity of natural language to reimagine the way users trade, invest, and manage their digital assets. With intuitive tools and interactive agents, Bloco.exchange empowers its users to navigate the complex financial landscape with confidence and ease.
+![Header](header.png)
+
+bloco.exchange is an AI-powered web3 platform that seamlessly blends cutting-edge technology with the simplicity of natural language to reimagine the way users trade, invest, and manage their digital assets. With intuitive tools and interactive agents, bloco.exchange empowers its users to navigate the complex financial landscape with confidence and ease.
 
 ## The Power of bloco.exchange
 
@@ -8,11 +10,11 @@ Our platform offers an unparalleled suite of features designed to elevate your e
 
 ![Pillars](pillars.png)
 
-1. **Dedicated Intelligent Agents**: Imagine having a personal concierge for your digital assets. Bloco.exchange pairs every user with their own intelligent agent that can act on their behalf, guiding them through markets, executing trades, managing investments, and providing essential market insights for well-informed decision-making.
+1. **Dedicated Intelligent Agents**: Imagine having a personal concierge for your digital assets. bloco.exchange pairs every user with their own intelligent agent that can act on their behalf, guiding them through markets, executing trades, managing investments, and providing essential market insights for well-informed decision-making.
 
 2. **Custody and Authorization**: At bloco.exchange, we believe in the power of autonomy and security. We ensure that keys and funds remain in the hands of their rightful owners, giving our users complete control over their digital assets.
 
-3. **Identification and Authentication**: By employing Web3 technology for user login, Bloco.exchange places the utmost importance on privacy and security, safeguarding your data and digital identity.
+3. **Identification and Authentication**: By employing Web3 technology for user login, bloco.exchange places the utmost importance on privacy and security, safeguarding your data and digital identity.
 
 4. **Borderless Access**: We've torn down the barriers that once separated us, creating a truly global platform accessible to anyone, anywhere. With bloco.exchange, users can trade, invest, and engage in commerce without the constraints of borders or boundaries.
 
@@ -20,13 +22,13 @@ Welcome to bloco.exchange, where the future of digital asset management comes al
 
 ## Membership Tiers: Choose Your Path to Success
 
-Bloco.exchange presents two distinct membership tiers, designed to cater to the unique needs and aspirations of our users:
+bloco.exchange presents two distinct membership tiers, designed to cater to the unique needs and aspirations of our users:
 
 - **Essential**: Embrace the foundational elements of bloco.exchange with the Essential tier, granting you access to our platform's core features and functionalities. This tier is perfect for those looking to explore and grow in the world of digital assets.
 
 - **Elite**: Elevate your experience to new heights with the Elite tier, unlocking a realm of premium features, exclusive benefits, and unparalleled opportunities tailored for those who strive for excellence in their digital asset journey.
 
-Embark on the path that aligns with your vision and goals, and let Bloco.exchange be the catalyst for your success.
+Embark on the path that aligns with your vision and goals, and let bloco.exchange be the catalyst for your success.
 
 ## Diverse DeFi Protocols and Integrations for an Inclusive Financial Ecosystem
 
@@ -44,7 +46,7 @@ At bloco.exchange, we believe in the power of diversity and inclusion to foster 
 
 - [OpenSea Integration](integrations/opensea_integration.md): As the largest decentralized marketplace for NFTs (non-fungible tokens), OpenSea offers a treasure trove of unique digital assets. Our integration with OpenSea grants our users access to a vast universe of NFTs for trading and investment, sparking creativity and new possibilities.
 
-- [Chainlink Integration](integrations/chainlink_integration.md): Chainlink, a decentralized oracle network, supplies accurate and up-to-date data feeds to smart contracts on a variety of blockchain networks. By integrating Chainlink, we ensure that Bloco.exchange's trading, investing, and asset management features are underpinned by reliable and secure information.
+- [Chainlink Integration](integrations/chainlink_integration.md): Chainlink, a decentralized oracle network, supplies accurate and up-to-date data feeds to smart contracts on a variety of blockchain networks. By integrating Chainlink, we ensure that bloco.exchange's trading, investing, and asset management features are underpinned by reliable and secure information.
 
 Together, these diverse integrations coalesce into a harmonious whole, creating an inclusive, versatile, and powerful financial ecosystem that caters to the unique needs and aspirations of our users.
 
@@ -56,7 +58,7 @@ At bloco.exchange, we believe that success is best savored when shared. That's w
 
 - **Achievement Bonuses**: Transform your passion into profit as you earn points for every action, trade, or activity you complete on our platform through Achievement Bonuses. Accumulate these points and convert them into monetary value, reaping the rewards of your dedication and enthusiasm.
 
-- **Bloco Ambassadors**: Share the magic of Bloco.exchange with others and enjoy the fruits of their success through our Bloco Ambassadors program. For every new user you refer, you'll receive a percentage of their subscription fee, creating a continuous stream of income that grows alongside your network.
+- **Bloco Ambassadors**: Share the magic of bloco.exchange with others and enjoy the fruits of their success through our Bloco Ambassadors program. For every new user you refer, you'll receive a percentage of their subscription fee, creating a continuous stream of income that grows alongside your network.
 
 Embrace the thrill of engagement, revel in the excitement of competition, and flourish in a world of boundless opportunities at bloco.exchange.
 
@@ -77,7 +79,7 @@ bloco.exchange is committed to continuous innovation and expansion, with several
 
 - **Decentralized Autonomous Index Fund (DAIF)**: DAIFs are smart-contract-based funds that are managed by a investor consensus, rather than a centralized entity. These funds invest in a diversified portfolio of assets, including cryptocurrencies, stocks, and commodities, and use blockchain technology to automate the management and rebalancing of the portfolio.
 
-- **Blocs (⨖) Payment Gateway**: Bloco.exchange plans to develop a Blocs (⨖) Payment Gateway for e-commerce platforms, allowing merchants to accept Blocs (⨖) as payment for goods and services, and driving real-world adoption and utility.
+- **Blocs (⨖) Payment Gateway**: bloco.exchange plans to develop a Blocs (⨖) Payment Gateway for e-commerce platforms, allowing merchants to accept Blocs (⨖) as payment for goods and services, and driving real-world adoption and utility.
 
 ## Documentation and Resources
 
@@ -95,7 +97,7 @@ To further assist users in understanding and utilizing bloco.exchange's features
 
 - [FAQs](faqs.md): A comprehensive list of frequently asked questions and answers to help users quickly find information and solutions related to the platform.
 
-Bloco.exchange is committed to delivering a world-class trading and investment experience, leveraging advanced technologies and innovative features to empower users and unlock new possibilities in the world of digital assets.
+bloco.exchange is committed to delivering a world-class trading and investment experience, leveraging advanced technologies and innovative features to empower users and unlock new possibilities in the world of digital assets.
 
 ## Community and Governance
 

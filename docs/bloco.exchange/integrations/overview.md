@@ -2,7 +2,7 @@
 
 Bloco.exchange is a powerful, AI-powered web3 platform that enables users to trade, invest, and manage their digital assets with ease. To provide users with the best possible experience and access to a wide range of opportunities, bloco.exchange integrates various third-party technologies and protocols.
 
-![Agent Interactions](integrations.png)
+![Integrations](integrations.png)
 
 In this overview, we will discuss the key integrations within the bloco.exchange platform:
 
