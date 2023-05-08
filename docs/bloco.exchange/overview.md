@@ -6,6 +6,8 @@ Bloco.exchange is an AI-powered web3 platform that seamlessly blends cutting-edg
 
 Our platform offers an unparalleled suite of features designed to elevate your experience and provide you with the best possible opportunities:
 
+![Pillars](pillars.png)
+
 1. **Dedicated Intelligent Agents**: Imagine having a personal concierge for your digital assets. Bloco.exchange pairs every user with their own intelligent agent that can act on their behalf, guiding them through markets, executing trades, managing investments, and providing essential market insights for well-informed decision-making.
 
 2. **Custody and Authorization**: At bloco.exchange, we believe in the power of autonomy and security. We ensure that keys and funds remain in the hands of their rightful owners, giving our users complete control over their digital assets.
