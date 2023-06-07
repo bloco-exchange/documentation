@@ -103,6 +103,7 @@ bloco.exchange is committed to delivering a world-class trading and investment e
 
 - [Governance Proposals](governance_proposals.md): Information on how users can participate in the governance of the platform by submitting proposals, discussing potential changes, and voting on decisions that affect the future of bloco.exchange.
 
+
 - [Events and Webinars](events_and_webinars.md): A calendar of upcoming events, webinars, and meetups where users can learn about the latest developments, network with other users, and engage with the bloco.exchange team.
 
 - [Development Roadmap](development_roadmap.md): An overview of bloco.exchange's development plans, milestones, and future features, allowing users to stay informed about the platform's progress and upcoming enhancements.
