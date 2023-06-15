@@ -1,4 +1,6 @@
-# Keys: Custody and Authorization
+# The Four Pillars of bloco.exchange.
+
+# 1. Keys: Custody and Authorization
 
 Bloco.exchange puts a strong emphasis on ensuring that users have full control over their keys and funds. By prioritizing security, the platform enables users to manage their assets with confidence. This is achieved by implementing best practices, such as:
 
@@ -7,7 +9,7 @@ Bloco.exchange puts a strong emphasis on ensuring that users have full control o
 - Hardware wallet integration: Bloco.exchange supports integration with popular hardware wallets, enabling users to store their keys offline for maximum security.
 - Customizable authorization settings: Users have the option to customize their authorization settings, such as withdrawal limits and transaction confirmation requirements.
 
-# IDs: Identification and Authentication
+# 2. IDs: Identification and Authentication
 
 Bloco.exchange leverages Web3 technology to provide secure and privacy-focused identification and authentication. By utilizing decentralized identifiers (DIDs), the platform enables users to maintain control over their personal information. Key features include:
 
@@ -15,7 +17,7 @@ Bloco.exchange leverages Web3 technology to provide secure and privacy-focused i
 - Decentralized identity management: Users' identities are managed on the blockchain, ensuring transparency and user control over their personal information.
 - Privacy-first approach: Bloco.exchange respects user privacy and minimizes the collection of personal information, adhering to data minimization principles.
 
-# AI: Intelligent and Intuitive
+# 3. AI: Intelligent and Intuitive
 
 Bloco.exchange harnesses the power of AI to create a more intuitive and interactive platform. By utilizing advanced natural language processing and machine learning techniques, the platform provides a seamless and enriched user experience. Some key AI features include:
 
@@ -23,7 +25,7 @@ Bloco.exchange harnesses the power of AI to create a more intuitive and interact
 - Context-aware interactions: AI agents can understand the context of user interactions, allowing for more accurate and relevant responses.
 - AI-driven UI components: Interactive agents can dynamically create UI components based on user interactions, instructions, and requests, providing a tailored experience.
 
-# Borderless: Accessible and Worldwide
+# 4. Borderless: Accessible and Worldwide
 
 Bloco.exchange aims to break down barriers and make investment, trading, and commerce accessible to everyone, regardless of their location or background. By leveraging innovative technology and decentralized systems, the platform enables users to participate in a global economy. Key aspects include:
 
